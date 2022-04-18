@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.App h5 {
+  font-size: 36px;
+  margin-top: 12px;
+}
+.choices {
+  display: flex;
+  gap: 30px;
+  padding: 20px 0px 20px 0px;
+}
+
+.results {
+  text-align: center;
+  font-size: 24px;
+}
